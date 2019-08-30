@@ -1,2 +1,3 @@
 # Snakegame
-It is snake game developed in C language on codeblock. In this game A player can play and Store their Score,Name, Date and Time for future significance.
+A Snake game developed in C Programming language on codeblock IDE. 
+In this game A player can play and Store their Score,Name, Date and Time in Text file for future significance.
