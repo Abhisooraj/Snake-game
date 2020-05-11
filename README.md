@@ -13,10 +13,7 @@ As name shows <b>Snake Game</b> is a user friendly game developed in <b>C progra
 
 # Screenshots:
 ![ScreenShot1](https://github.com/Abhisooraj/Snake-game/blob/master/Images/Screenshot_01.png)
-![ScreenShot2](https://github.com/Abhisooraj/Snake-game/blob/master/Images/Screenshot_02.png)
 ![ScreenShot1](https://github.com/Abhisooraj/Snake-game/blob/master/Images/Screenshot_03.png)
-![ScreenShot2](https://github.com/Abhisooraj/Snake-game/blob/master/Images/Screenshot_04.png)
 ![ScreenShot1](https://github.com/Abhisooraj/Snake-game/blob/master/Images/Screenshot_05.png)
 
-<h4>Screenshots on different machines...</h4>
 
